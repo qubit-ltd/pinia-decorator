@@ -3,8 +3,8 @@
 [![npm package](https://img.shields.io/npm/v/@qubit-ltd/pinia-decorator.svg)](https://npmjs.com/package/@qubit-ltd/pinia-decorator)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![中文文档](https://img.shields.io/badge/文档-中文版-blue.svg)](README.zh_CN.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/pinia-decorator/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/pinia-decorator/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/pinia-decorator/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/pinia-decorator?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/pinia-decorator/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/pinia-decorator/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/pinia-decorator/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/pinia-decorator?branch=master)
 
 [pinia-decorator] is a JavaScript library that simplifies the integration of
 [Pinia] stores with [Vue class-style components] using the
@@ -483,7 +483,7 @@ See the [LICENSE](LICENSE) file for more details.
 [vuex-class]: https://github.com/ktsn/vuex-class
 [pinia-class]: https://github.com/jquagliatini/pinia-class
 [vue-facing-decorator]: https://github.com/facing-dev/vue-facing-decorator
-[GitHub repository]: https://github.com/Haixing-Hu/pinia-decorator
+[GitHub repository]: https://github.com/qubit-ltd/pinia-decorator
 
 
 

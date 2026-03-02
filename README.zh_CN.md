@@ -3,8 +3,8 @@
 [![npm package](https://img.shields.io/npm/v/@qubit-ltd/pinia-decorator.svg)](https://npmjs.com/package/@qubit-ltd/pinia-decorator)
 [![License](https://img.shields.io/badge/License-Apache-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![English Document](https://img.shields.io/badge/Document-English-blue.svg)](README.md)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Haixing-Hu/pinia-decorator/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/Haixing-Hu/pinia-decorator/tree/master)
-[![Coverage Status](https://coveralls.io/repos/github/Haixing-Hu/pinia-decorator/badge.svg?branch=master)](https://coveralls.io/github/Haixing-Hu/pinia-decorator?branch=master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/qubit-ltd/pinia-decorator/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/qubit-ltd/pinia-decorator/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/qubit-ltd/pinia-decorator/badge.svg?branch=master)](https://coveralls.io/github/qubit-ltd/pinia-decorator?branch=master)
 
 [pinia-decorator] 是一个 JavaScript 库，它使用了 [JavaScript 装饰器的第三阶段提案]，
 简化了将 [Pinia] 存储与 [Vue 类风格组件] 集成的过程。换句话说，它提供了类似于 [vuex-class] 
@@ -476,4 +476,4 @@ export default toVue(UserPage);
 [vuex-class]: https://github.com/ktsn/vuex-class
 [pinia-class]: https://github.com/jquagliatini/pinia-class
 [vue-facing-decorator]: https://github.com/facing-dev/vue-facing-decorator
-[GitHub 仓库]: https://github.com/Haixing-Hu/pinia-decorator
+[GitHub 仓库]: https://github.com/qubit-ltd/pinia-decorator
