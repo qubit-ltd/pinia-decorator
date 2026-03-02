@@ -2251,7 +2251,7 @@ __metadata:
     "@qubit-ltd/type-detect": "npm:^2.2.3"
     "@qubit-ltd/typeinfo": "npm:^3.3.4"
     "@qubit-ltd/vite-plugin-babel": "npm:^1.6.1"
-    "@qubit-ltd/vue3-class-component": "npm:^2.4.4"
+    "@qubit-ltd/vue3-class-component": "npm:^2.4.5"
     "@rollup/plugin-alias": "npm:^6.0.0"
     "@rollup/plugin-babel": "npm:^6.1.0"
     "@rollup/plugin-commonjs": "npm:^29.0.0"
@@ -2285,7 +2285,7 @@ __metadata:
     vue-eslint-parser: "npm:^10.2.0"
   peerDependencies:
     "@babel/runtime": ^7.28.4
-    "@qubit-ltd/vue3-class-component": ^2.4.4
+    "@qubit-ltd/vue3-class-component": ^2.4.5
     pinia: ^3.0.3
     vue: ^3.5.21
   languageName: unknown
@@ -2340,14 +2340,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@qubit-ltd/vue3-class-component@npm:^2.4.4":
-  version: 2.4.4
-  resolution: "@qubit-ltd/vue3-class-component@npm:2.4.4"
+"@qubit-ltd/vue3-class-component@npm:^2.4.5":
+  version: 2.4.5
+  resolution: "@qubit-ltd/vue3-class-component@npm:2.4.5"
   peerDependencies:
     "@babel/runtime": ^7.28.5
     "@qubit-ltd/clone": ^1.13.6
     vue: ^3.5.21
-  checksum: 10c0/22fd0bbe8e78f36daf96c2f9b81b88163de5e7e37f3fc7ff7d4024f7a632a97b5a293080ea737e6f65c9e8d0655af2c7bc123bc265fe214c83a31069e8b33403
+  checksum: 10c0/6f59a2b33e693d6f5d2d1175cd080ce5d4fd2890fd402c11b85c2d1f0155c98311aa0877b7d1bf2412257b5f49ddf366fbafefee077d4aa271c81f7adf92e137
   languageName: node
   linkType: hard
 
